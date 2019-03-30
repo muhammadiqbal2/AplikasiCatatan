@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Note</string>
+    <string name="action_settings">Pengaturan ANda</string>
+    <string name="activity_title_home">Catatan</string>
+    <string name="msg_no_notes">Catatan Tidak Ditemukan</string>
+    <string name="lbl_new_note_title">Buat Catatan</string>
+    <string name="lbl_edit_note_title">Ubah Catatan</string>
+    <string name="hint_enter_note">Masukan Catatan</string>
+</resources>
